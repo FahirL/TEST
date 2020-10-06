@@ -1,3 +1,3 @@
 # TEST
-![alt-text](https://giphy.com/gifs/PYTcZJQWXpoy9VXJA3/html5)
+![alt-text](https://media.giphy.com/media/PYTcZJQWXpoy9VXJA3/giphy.gif)
 
